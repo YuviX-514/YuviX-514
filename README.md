@@ -7,8 +7,8 @@
 - 🎮 Casual gamer who believes in the power of taking breaks
 
 <div>
-  <a href="mailto:tripathidhruv366@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tripathidhruv366%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:yuvi4695@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yuvi4695%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -36,27 +36,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv7tripathi&theme=radical" alt="Dhruv's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuviX-514&theme=radical" alt="Dhruv's GitHub Streak" />
 </div>
 
 ## 🔗 Connect With Me
 
 <div>
-  <a href="https://www.linkedin.com/in/dhruv-tripathi-9848792aa/">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-7aa0b6232/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://twitter.com/dhruvTripathi">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align ="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv7tripathi&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YuviX-514&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
