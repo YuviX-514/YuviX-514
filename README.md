@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuviX-514&theme=radical" alt="Dhruv's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuviX-514&theme=radical" alt="Yuvi's GitHub Streak" />
 </div>
 
 ## 🔗 Connect With Me
