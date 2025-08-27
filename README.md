@@ -43,7 +43,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/yuvraj-singh-7aa0b6232/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://camo.githubusercontent.com/53001393ae1917765c0662e8aff81a44e5c3461d308473099c9cde8c450de7c2/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d59757669582d353134267468656d653d7261646963616c26636f6c756d6e3d34266d617267696e2d773d3135266d617267696e2d683d3135" />
   </a>
 
 </div>
