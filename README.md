@@ -1,6 +1,6 @@
 <div align="center">
 
-# Namaste! I'm Yuvraj Singh ✨
+# Hello! I'm Yuvraj Singh ✨
 
 ### Full Stack Developer • DSA Enthusiast • Solution Architect
 
@@ -59,33 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YuviX-514&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Yuvraj's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuviX-514&theme=midnight-purple&hide_border=true" alt="Yuvraj's GitHub Streak" />
 </div>
-
----
-
-## 💼 Featured Projects
-*Deployed Demos are my priority.*
-
-<details>
-<summary>💻 **Project One — Fast Notes App**  <span>(Next.js · Tailwind · Prisma · PostgreSQL)</span></summary>
-<br>
-
-- **Goal:** Build a highly responsive, lightweight note-taking application.
-- **Key Features:** Real-time search, markdown support, and advanced tagging system.
-- **Repo:** `https://github.com/YuviX-514/project-one`
-- **Demo:** `assets/project-one-demo.gif` *(Add your GIF here)*
-
-</details>
-
-<details>
-<summary>📊 **Project Two — API Dashboard** <span>(Node.js · Express · MongoDB)</span></summary>
-<br>
-
-- **Goal:** Create a robust REST API backend with an administrative dashboard for analytics visualization.
-- **Key Features:** User authentication, role-based access control, and daily/monthly traffic reports.
-- **Repo:** `https://github.com/YuviX-514/project-two`
-- **Demo:** `assets/project-two-demo.gif` *(Add your GIF here)*
-
-</details>
 
 ---
 
